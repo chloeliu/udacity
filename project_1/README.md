@@ -1,4 +1,4 @@
-# ${1:udacity movie website}
+# Project Name: udacity movie website
 Create a simple website with all movie poster and links to movie trailers
 ## files
 1. entertainment_center.py : contains the initalzations of movie instances
