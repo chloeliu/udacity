@@ -7,6 +7,11 @@ and use fresh_tomatoes.py to generate the actual webpage
 3. fresh_tomatoes.py : generate the webpage html code
 
 ## Usage
-fresh_tomatoes.html is the actual outcome
+To run the program please use this command:
+    python entertainment_center.py
+
+## Result
+fresh_tomatoes.html will be generated upon successfully running the entertainment_center
+script and it will be opened in a default webbrowser.
 ## Credits
 Chloe Liu
